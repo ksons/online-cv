@@ -45,12 +45,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Digitalization and 3D data models run like a red thread through my career: In my first position as researcher at Airbus, I developed concepts to simulate and explore (in VR) light conditions as well as passenger flow of future aircrafts based on their digital mock-up (DMU) . Later, with my own company, I worked for automotive and oil&gas offering service around the digital model. For instance, I helped EDF transforming their digital models of nuclear plants into IFC, a standard for building information management (BIM). 
+
+      During my time at the German Research Center for Artificial Intelligence (DFKI), I developed a novel visualisation format (XML3D) for 3D scenes based on HTML and JavaScript. The project was developed in close collaboration with companies such as Intel and Daimler. Finally, we also looked into concepts how to combine artificial intelligence with  visualisation.
+
+      Today, at adidas in digital creation, I am working on technologies to translate ideas into real products, on digital tools to enable collaboration of our creators and on modular product design.
+
+      Working with technologies such as VR, AR, AI and digitalisation since more than 10 years now, I am beyond the point being interested in those cool on-off projects. I am interested in how to use these technologies at larger scale in a value-adding way and with best user experience.
+
 education:
     - degree: Doctor of Engineering (PhD) 
       university: Saarland University
