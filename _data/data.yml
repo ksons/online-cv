@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     # email: hello@webjeda.com
     # phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    # website: blog.webjeda.com #do not add http://
     linkedin: kristian-sons
     github: ksons
     # telegram: # add your nickname without '@' sign
@@ -39,7 +39,7 @@ sidebar:
       - item: Basketball
         link:
 
-      - item: \#plottertwitter
+      - item: &#35;plottertwitter
         link:
 
       - item: Cooking
